@@ -2,7 +2,7 @@ https://ricardocv2.github.io/Quest-Design/
 
 # A better look at Quest designing
 
-![Kratos and Loki](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
+![Kratos and Loki](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg?raw=true)
 
 ## About the author
 
